@@ -1,0 +1,12 @@
+.cask/
+.cache/
+auto-save-list/
+custom.el
+*.elc
+eshell/
+ido.last
+smex-items
+transient/
+url/
+bookmarks
+elpa/
